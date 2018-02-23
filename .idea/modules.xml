@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Devcit-Java.iml" filepath="$PROJECT_DIR$/Devcit-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_03_Task_01/Practice_03_Task_01.iml" filepath="$PROJECT_DIR$/Practice_03_Task_01/Practice_03_Task_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_03_Task_02/Practice_03_Task_02.iml" filepath="$PROJECT_DIR$/Practice_03_Task_02/Practice_03_Task_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_03_Task_03/Practice_03_Task_03.iml" filepath="$PROJECT_DIR$/Practice_03_Task_03/Practice_03_Task_03.iml" />
+    </modules>
+  </component>
+</project>
